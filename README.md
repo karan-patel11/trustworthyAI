@@ -1,6 +1,6 @@
 # trustworthyAI
 
-A research repo investigating when and how large language models fail in high-stakes domains. Each project uses a different domain to expose a different category of AI failure, from rule integrity to clinical responsibility.
+A repo investigating when and how large language models fail in high-stakes domains. Each project uses a different domain to expose a different category of AI failure, from rule integrity to clinical responsibility.
 
 Both projects are self-contained. Start with either one.
 
