@@ -148,6 +148,4 @@ Trust the output. But verify the input got there honestly.
 
 All three failures are reproducible. Use the exact prompts quoted above in any GPT o3-mini session. The duplicate card failure in particular is consistent across runs. The model has no input validation layer for game states and will process impossible inputs the same way it processes valid ones.
 
----
 
-*Investigation conducted March 2026. Screenshots unedited.*
