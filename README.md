@@ -48,6 +48,7 @@ trustworthyAI/
 ├── README.md          
 ├── Project1.md        # Mental health AI failure analysis
 ├── Project2.md        # Game-playing rule violation analysis
+├── Project3.md        # Persona-dependent factual variation analysis
 └── LICENSE
 ```
 
